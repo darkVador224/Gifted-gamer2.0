@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<h1 align="center"> 𝐆𝐀𝐌𝐄𝐑-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
 
@@ -45,7 +45,7 @@
 <summary>GET YOUR SESSION_ID</summary>
 <a href="https://session.giftedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
-- Session ID must start with **Gifted~** and is 15 characters in length.
+- Session ID must start with **Gamermd~** and is 15 characters in length.
 </details>
 
 ### 𝟑. 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍:
