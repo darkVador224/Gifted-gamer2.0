@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐆𝐀𝐌𝐄𝐑-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<h1 align="center"> 𝐆𝐀𝐌𝐄𝐑-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 1.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
 
