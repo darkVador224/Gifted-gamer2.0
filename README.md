@@ -9,20 +9,20 @@
 
 - For Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+<a href="https://files.gamertech.my.id/download/gamer-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
   
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/darkvador224"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GAMER TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
+<a href="https://github.com/darkvador224?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/darkvador224?label=Followers&style=social"></a>
+<a href="https://github.com/darkvador224/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gamer?&style=social"></a>
+<a href="https://github.com/darkvador224/gifted-gamer2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkvador224/gifted?style=social"></a>
+<a href="https://github.com/darkvador224/gifted-gamer2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkvador224/gifted-gamer2.0?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -34,7 +34,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/darkvador224/Gifted-gamer2.0/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GAMER-MD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -43,7 +43,7 @@
 
 <details>
 <summary>GET YOUR SESSION_ID</summary>
-<a href="https://session.giftedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+<a href="https://session.gamertech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
 - Session ID must start with **Gamermd~** and is 15 characters in length.
 </details>
@@ -55,7 +55,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
+<a href="https://session.gamertech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -63,7 +63,7 @@
 **(B) HOST ON TALKDROVE**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://host.talkdrove.com/auth/signup?ref=53A2DE6D"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
+<a href="https://host.talkdrove.com/auth/signup?ref=F854FCD5"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
 
 <a href="https://youtu.be/YG3-oV2cVj8?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
